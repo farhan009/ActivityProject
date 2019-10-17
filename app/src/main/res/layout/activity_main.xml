@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:background="#E2E2E2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Activity Project"
+        android:textSize="40sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"/>
+
+    <TextClock
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Current Time"
+        android:textColor="@color/colorPrimary"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_margin="10dp"/>
+
+    <Button
+        android:id="@+id/bangladesh_id"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/bangladesh_text"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:drawableLeft="@drawable/bangladesh"/>
+
+    <Button
+        android:id="@+id/india_id"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/india_text"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:drawableLeft="@drawable/india"/>
+
+    <Button
+        android:id="@+id/usa_id"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/usa_text"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:drawableLeft="@drawable/usa"/>
+
+    <Button
+        android:id="@+id/germany_id"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/germany_text"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:drawableLeft="@drawable/germany"/>
+
+    <Button
+        android:id="@+id/canada_id"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/canada_text"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:drawableLeft="@drawable/canada"/>
+
+    <Button
+        android:id="@+id/london_id"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/london_text"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:drawableLeft="@drawable/london"/>
+
+</LinearLayout>

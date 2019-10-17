@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Activity Project</string>
+
+    <string name="bangladesh_text">Bangladesh</string>
+    <string name="india_text">India</string>
+    <string name="usa_text">USA</string>
+    <string name="germany_text">Germany</string>
+    <string name="canada_text">Canada</string>
+    <string name="london_text">London</string>
+
+    <string name="bangladesh_history">
+        Bangladesh Bengali: বাংলাদেশ Bangladesh [baŋladeʃ] (About this soundlisten), lit. "The country of Bengal"), officially the Peoples Republic of Bangladesh (গণপ্রজাতন্ত্রী বাংলাদেশ Gônoprojatontri Bangladesh), is a country in South Asia. While it is the 92nd-largest country, spanning 147,570 square kilometres
+        (56,980 sq mi), it is the worlds 8th-most populous country with a population nearing 163 million[6], making it one of the most densely populated countries in the world. Bangladesh shares land borders with India to the west, north and the east and Myanmar to the east, whereas the Bay of Bengal lies to its south. Dhaka, its
+        capital and largest city, is also the economic, political and the cultural hub of the country. Chittagong, the largest sea port, is the second largest city. The countrys geography is dominated by the Ganges delta which empties into the Bay of Bengal the combined waters of several river systems, including those of the Brahmaputra
+        and the Ganges. As a result, the country is criss-crossed by numerous rivers and inland water ways. Highlands with evergreen forests cover the landscape in the northeastern and southeastern regions of the country. The country also features the longest natural sea beach and most of the largest mangrove forest in the world.
+        The countrys biodiversity includes a vast array of plants and wildlife, including the endangered Bengal tiger, the national animal.
+
+        Bangladesh forms the largest and eastern part of the Bengal region.[11] According to the ancient Indian epics, Ramayana and Mahabharata, the Vanga Kingdom, one of the namesakes of the Bengal region, was known as an ally of the legendary Ayodhya and was notable for its strong navy. In the ancient and classical period of the Indian subcontinent,
+        the territory of Bangladesh was home to many principalities, including the Pundra, the Gangaridai, Gauda, Samatata and Harikela. It was also a Mauryan province under the reign of Ashoka. The principalities were notable for their overseas trade, their contacts with the Roman world, the export of fine muslin and silk to the Middle East,
+        and spreading of philosophy and art to Southeast Asia. The Pala Empire, the Chandra dynasty and the Sena dynasty were the last pre-Islamic Bengali middle kingdoms. Islam was introduced during the Pala Empire, through trade with the Abbasid Caliphate,[12] but following the early conquest of Bakhtiyar Khalji and the subsequent establishment
+        of the Delhi Sultanate and preaching of Shah Jalal in East Bengal, it fully spread across the entire region. Later, it was absorbed into the Mughal Empire in 1576, although part of the region was overrun by the Suri Empire. Following the decline of the Mughal Empire in the early 1700s, Bengal became a semi-independent state under the Nawabs
+        of Bengal, ultimately led by Siraj ud-Daulah. It was later conquered by the British East India Company at the Battle of Plassey in 1757.[13] The borders of modern Bangladesh were established with the separation of Bengal and India in August 1947, when the region became East Pakistan as a part of the newly formed State of Pakistan following
+        the Boundary of the Partition of India.[14] Later the rise of the Bengali nationalist and self-determination movement led to the Liberation War and eventually resulted in the emergence of Bangladesh as an independent sovereign in 1971.
+    </string>
+
+    <string name="india_history">
+        According to consensus in modern genetics anatomically modern humans first arrived on the Indian subcontinent from Africa between 73,000 and 55,000 years ago.[1] However, the earliest known human remains in South Asia date to 30,000 years ago. Settled life, which involves the transition from foraging to farming and pastoralism, began in
+        South Asia around 7,000 BCE. At the site of Mehrgarh, Balochistan, Pakistan, presence can be documented of the domestication of wheat and barley, rapidly followed by that of goats, sheep, and cattle.[2] By 4,500 BCE, settled life had spread more widely,[2] and began to gradually evolve into the Indus Valley Civilization, an early civilization
+        of the Old world, which was contemporaneous with Ancient Egypt and Mesopotamia. This civilisation flourished between 2,500 BCE and 1900 BCE in what today is Pakistan and north-western India, and was noted for its urban planning, baked brick houses, elaborate drainage, and water supply.[3]
+
+        In early second millennium BCE persistent drought caused the population of the Indus Valley to scatter from large urban centres to villages. Around the same time, Indo-Aryan tribes moved into the Punjab from regions further northwest in several waves of migration. The resulting Vedic period was marked by the composition of the Vedas, large collections
+        of hymns of these tribes whose postulated religious culture, through synthesis with the preexisting religious cultures of the subcontinent, gave rise to Hinduism. The caste system, which created a hierarchy of priests, warriors, and free peasants, but which excluded indigenous peoples by labeling their occupations impure, arose later during
+        this period. Towards the end of the period, around 600 BCE, after the pastoral and nomadic Indo-Aryans spread from the Punjab into the Gangetic plain, large swaths of which they deforested to pave way for agriculture, a second urbanisation took place. The small Indo-Aryan chieftaincies, or janapadas, were consolidated into larger states, or
+        mahajanapadas. This urbanisation was accompanied by the rise of new ascetic movements, including Jainism and Buddhism, which challenged the primacy of rituals, presided by Brahmin priests, that had come to be associated with Vedic religion,[4] and gave rise to new religious concepts.[5]
+    </string>
+
+    <string name="usa_history">
+        The history of the United States, a country in North America, began with the arrival of Indigenous people from Siberia before 15,000 BC. Numerous cultures formed, and many disappeared before 1500. The arrival of Christopher Columbus in the year 1492 started the European colonization of the Americas. Most colonies were formed after 1600, and the
+        early records and writings of John Winthrop make the United States the first nation whose most distant origins are fully recorded.[1] By the 1760s, thirteen British colonies contained 2.5 million people along the Atlantic coast east of the Appalachian Mountains. After defeating France, the British government imposed a series of new taxes,
+        including the Stamp Act of 1765, rejecting the colonists constitutional argument that new taxes needed their approval. Tax resistance, especially the Boston Tea Party in 1773, led to Parliament issuing punitive laws designed to end self-government in Massachusetts.
+
+        Armed conflict began in 1775. In 1776 in Philadelphia, the Second Continental Congress declared the independence of the colonies as the United States. Led by General George Washington, it won the Revolutionary War with large support from France. The peace treaty of 1783 gave the land east of the Mississippi River (except Canada and Florida) to the new nation.
+        The Articles of Confederation established a central government, but it was ineffectual at providing stability as it could not collect taxes and had no executive officer. A convention in 1787 wrote a new Constitution that was adopted in 1789. In 1791, a Bill of Rights was added to guarantee inalienable rights. With Washington as the first president
+        and Alexander Hamilton his chief adviser, a strong central government was created. Purchase of the Louisiana Territory from France in 1803 doubled the size of the United States. A second and final war with Britain was fought in 1812, which solidified national pride
+    </string>
+
+    <string name="canada_history">
+        The history of Canada covers the period from the arrival of Paleo-Indians thousands of years ago to the present day. Prior to European colonization, the lands encompassing present-day Canada were inhabited for millennia by Indigenous peoples, with distinct trade networks, spiritual beliefs, and styles of social organization. Some of these older
+        civilizations had long faded by the time of the first European arrivals and have been discovered through archaeological investigations.
+
+        Starting in the late 15th century, French and British expeditions explored, colonized, and fought over various places within North America in what constitutes present-day Canada. The colony of New France was claimed in 1534 with permanent settlements beginning in 1608. France ceded nearly all its North American possessions to the United Kingdom in
+        1763 after the French defeat in the Seven Years War. The now British Province of Quebec was divided into Upper and Lower Canada in 1791 and reunified in 1841. In 1867, the Province of Canada was joined with two other British colonies of New Brunswick and Nova Scotia through Confederation, forming a self-governing entity named Canada. The new
+        country expanded by incorporating other parts of British North America, finishing with Newfoundland and Labrador in 1949.
+
+        Although responsible government had existed in Canada since 1848, Britain continued to set its foreign and defence policies until the end of the First World War. The passing of the Statute of Westminster in 1931 recognized that Canada had become co-equal with the United Kingdom. After the Constitution was patriated in 1982, the final vestiges of legal
+        dependence on the British parliament were removed. Canada currently consists of ten provinces and three territories and is a parliamentary democracy and a constitutional monarchy with Queen Elizabeth II as its head of state.
+    </string>
+
+    <string name="germany_history">
+        The concept of Germany as a distinct region in central Europe can be traced to Roman commander Julius Caesar, who referred to the unconquered area east of the Rhine as Germania, thus distinguishing it from Gaul (France), which he had conquered. The victory of the Germanic tribes in the Battle of the Teutoburg Forest (AD 9) prevented annexation by
+        the Roman Empire, although the Roman provinces of Germania Superior and Germania Inferior were established along the Rhine. Following the Fall of the Western Roman Empire, the Franks conquered the other West Germanic tribes. When the Frankish Empire was divided among Charles the Greats heirs in 843, the eastern part became East Francia. In 962,
+        Otto I became the first Holy Roman Emperor of the Holy Roman Empire, the medieval German state.
+
+        In the Late Middle Ages, the regional dukes, princes, and bishops gained power at the expense of the emperors. Martin Luther led the Protestant Reformation against the Catholic Church after 1517, as the northern states became Protestant, while the southern states remained Catholic. The two parts of the Holy Roman Empire clashed in the Thirty Years
+        War (1618–1648), which was ruinous to the twenty million civilians living in both parts. The Thirty Years War brought tremendous destruction to Germany; more than 1/4 of the population and 1/2 of the male population in the German states were killed by the catastrophic war. 1648 marked the effective end of the Holy Roman Empire and the beginning of
+        the modern nation-state system, with Germany divided into numerous independent states, such as Prussia, Bavaria, Saxony, Austria and other states, which also controlled land outside of the area considered "Germany".
+    </string>
+
+    <string name="london_history">The history of London, the capital city of England and the United Kingdom, extends over 2000 years. In that time, it has become one of the worlds most significant financial and cultural capital cities. It has withstood plague, devastating fire, civil war, aerial bombardment, terrorist attacks, and riots.
+        The City of London, often referred to simply as "the City", is the historic core of the Greater London metropolis, and is today its primary financial district, though it represents only a small part of the wider metropolis.
+
+        According to Historia Regum Britanniae, by Geoffrey of Monmouth, London was found by Brutus of Troy about 1000–1100 B.C.E. after he defeated the native giant Gogmagog; the settlement was known as Caer Troia, Troia Nova (Latin for New Troy), which, according to a pseudo-etymology, was corrupted to Trinovantum. Trinovantes were
+        the Iron Age tribe who inhabited the area prior to the Romans. Geoffrey provides prehistoric London with a rich array of legendary kings, such as Lud (see also Lludd, from Welsh mythology) who, he claims, renamed the town Caer Ludein, from which London was derived, and was buried at Ludgate.
+
+        Some recent discoveries indicate probable very early settlements near the Thames in the London area. In 1993, the remains of a Bronze Age bridge were found on the Thamess south foreshore, upstream of Vauxhall Bridge.[1] This bridge either crossed the Thames, or went to a now lost island in the river. Dendrology dated the timbers
+        to between 1750 B.C.E and 1285 B.C.E.[2] In 2001, a further dig found that the timbers were driven vertically into the ground on the south bank of the Thames west of Vauxhall Bridge.[3] In 2010, the foundations of a large timber structure, dated to between 4,800 B.C.E. and 4,500 B.C.E. [4] were found, again on the foreshore south
+        of Vauxhall Bridge.[5] The function of the mesolithic structure is not known. All these structures are on the south bank at a natural crossing point where the River Effra flows into the Thames.[5]
+
+        It is thought that the Thames was an important tribal boundary, and numerous finds have been made of spear heads and weaponry from the Bronze and Iron Ages near the banks of the Thames in the London area, many of which had clearly been used in battle.[6]
+
+        Archaeologist Leslie Wallace notes that "Because no LPRIA [Late pre-Roman Iron Age] settlements or significant domestic refuse have been found in London, despite extensive archaeological excavation, arguments for a purely Roman foundation of London are now common and uncontroversial."[7]
+    </string>
+
+
+    <string name="title_text"> Activity Project </string>
+    <string name="message_text">Do you want to Exit ?</string>
+
+</resources>
